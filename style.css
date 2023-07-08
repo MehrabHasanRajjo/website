@@ -1,0 +1,56 @@
+
+
+        .C{
+            border: 5px solid red;
+            width: 30%;
+           height: fit-content;
+            margin-top: 0px;
+            margin-left: 1px;
+            padding: 5px ;
+            text-align: center;
+            text-align: justify;
+            float: left;
+
+        }
+        .D{
+            border: 3px solid red;
+            width: 30%;
+            margin-top: 0px;
+            margin-left: 11px;
+           
+            padding: 5px ;
+            text-align: center;
+            text-align: justify;
+            float: left;
+          
+        }
+           
+        p{
+            color:rgb(38, 0, 254)  ;
+            font-size: 25px;
+            font-weight: 700;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+        img{
+            width: 50%;
+            
+        }
+        #Birthday{
+            font-size: 40px;
+            background-color: black;
+            color: aquamarine;
+        }
+        .friend{
+            color: brown;
+            background-color: bisque;
+           
+        }
+        h3.friend{
+            font-size: 100px;
+        }
+        .R{
+            color: greenyellow;
+            font-size: 40px;
+        }
+    
